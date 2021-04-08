@@ -1,0 +1,2 @@
+class ThiebisController < ApplicationController
+end

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manhacungcap: MyString
+  tennhacungcap: MyString
+  diachi: MyString
+  sodienthoai: 
+
+two:
+  manhacungcap: MyString
+  tennhacungcap: MyString
+  diachi: MyString
+  sodienthoai: 

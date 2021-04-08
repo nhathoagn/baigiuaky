@@ -1,0 +1,2 @@
+class LoaithietbiController < ApplicationController
+end

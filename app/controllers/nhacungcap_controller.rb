@@ -1,0 +1,2 @@
+class NhacungcapController < ApplicationController
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mathietbi: MyString
+  tenthietbi: MyString
+  mansx: MyString
+  thongsokythuat: MyString
+  maloai: MyString
+  giathanh: 
+  manhacungcap: MyString
+
+two:
+  mathietbi: MyString
+  tenthietbi: MyString
+  mansx: MyString
+  thongsokythuat: MyString
+  maloai: MyString
+  giathanh: 
+  manhacungcap: MyString

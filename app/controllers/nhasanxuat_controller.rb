@@ -1,0 +1,2 @@
+class NhasanxuatController < ApplicationController
+end

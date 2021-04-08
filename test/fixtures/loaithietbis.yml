@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maloai: MyString
+  tenloai: MyString
+  donvitinh: MyString
+  ghichu: MyString
+
+two:
+  maloai: MyString
+  tenloai: MyString
+  donvitinh: MyString
+  ghichu: MyString
